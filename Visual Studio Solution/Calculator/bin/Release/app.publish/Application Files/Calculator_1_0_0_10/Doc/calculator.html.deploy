@@ -1,0 +1,66 @@
+﻿<!DOCTYPE HTML>
+<html>
+ <head>
+  <title>Calculator</title>
+ </head>
+
+ <body>
+  <span style="font-size: 1.4em; font-weight: bold;">Calculator</span>
+  <br/>
+  <span style="font-size: 0.8em;">by Patrik Lundin, <a href="mailto:patrik@lundin.info">patrik@lundin.info</a></span>
+  <br/>
+  <p>
+  <span style="font-size: 1.2em; font-weight: bold;">Quick start</span>
+  <ol>
+	<li>Click on the buttons on the calculator to form your expression.</li>
+	<li>Click the green [=] button to evaluate.</li>
+  </ol>
+  </p>
+  <p style="color: blue;">
+	Note: sometimes you may have to click to place the caret correctly in the expression before continuing to build your expression.
+	<br/>
+	<img src="place.png" width="211" border="1"/>
+  </p>
+  <p>
+  <span style="font-size: 1.2em; font-weight: bold;">Draw a function graph</span>
+  <ol>	
+	<li>Click on the function buttons on the calculator and the x button to form your function of x, for example cos(x)</li>
+	<li>Click on the green [=] button to draw the function graph in the coordinate system.</li>
+	<li>Zoom, change bounds and clear the coordinate system with the buttons at the bottom</li>
+  </ol>
+  <br/>
+  <img src="graph.png" width="205" height="205" border="1"/>
+  </p>
+  <p>
+  <span style="font-size: 1.2em; font-weight: bold;">Save function graphs to a file</span>
+  <br/>
+  <img src="save.png" border="1"/>
+  <ol>
+	<li>Draw the functions you want to save</li>
+	<li>Click on the Save button at the top left to save the graphs. </li>
+	<li>Select a filename to save to</li>
+  </ol>
+  </p>
+  <p>
+  <span style="font-size: 1.2em; font-weight: bold;">Load function graphs from a file</span>
+  <br/>
+  <img src="load.png" border="1"/>
+  <ol>
+	<li>Click on the Open button at the top left to save the graphs. </li>
+	<li>Select the filename you have previously saved graphs to.</li>
+	<li>The graphs are loaded into the coordinate system.</li>
+  </ol>
+  </p>
+  <p>
+  <span style="font-size: 1.2em; font-weight: bold;">Print function graphs</span>
+  <br/>
+  <img src="print.png" border="1"/>
+  <ol>
+	<li>Draw or load the functions you want to print</li>
+	<li>Click on the Print button at the top left to print the graphs. </li>
+	<li>Follow the instructions on the print menu.</li>
+  </ol>
+  </p>
+  <br/><br/><br/><br/><br/>
+ </body>
+</html>

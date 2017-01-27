@@ -1,0 +1,4 @@
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\IOUtilities\bin\Debug\IOUtilities.dll
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\IOUtilities\bin\Debug\IOUtilities.pdb
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\IOUtilities\obj\Debug\IOUtilities.dll
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\IOUtilities\obj\Debug\IOUtilities.pdb

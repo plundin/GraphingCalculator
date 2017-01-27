@@ -1,0 +1,5 @@
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\IOUtilities\bin\Release\IOUtilities.dll
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\IOUtilities\bin\Release\IOUtilities.pdb
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\IOUtilities\obj\Release\IOUtilities.csprojResolveAssemblyReference.cache
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\IOUtilities\obj\Release\IOUtilities.dll
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\IOUtilities\obj\Release\IOUtilities.pdb

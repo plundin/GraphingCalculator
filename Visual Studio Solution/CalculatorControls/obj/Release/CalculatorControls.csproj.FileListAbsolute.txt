@@ -1,0 +1,14 @@
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\CalculatorControls\bin\Release\CalculatorControls.dll
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\CalculatorControls\bin\Release\CalculatorControls.pdb
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\CalculatorControls\bin\Release\IOUtilities.dll
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\CalculatorControls\bin\Release\MathLib.dll
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\CalculatorControls\bin\Release\info.lundin.math.dll
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\CalculatorControls\bin\Release\IOUtilities.pdb
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\CalculatorControls\bin\Release\MathLib.pdb
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\CalculatorControls\obj\Release\CalculatorControls.csprojResolveAssemblyReference.cache
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\CalculatorControls\obj\Release\CalculatorControls.ButtonPanel.resources
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\CalculatorControls\obj\Release\CalculatorControls.CoordinateSystem.resources
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\CalculatorControls\obj\Release\CalculatorControls.CoordinateSystemSettings.resources
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\CalculatorControls\obj\Release\CalculatorControls.csproj.GenerateResource.Cache
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\CalculatorControls\obj\Release\CalculatorControls.dll
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\CalculatorControls\obj\Release\CalculatorControls.pdb

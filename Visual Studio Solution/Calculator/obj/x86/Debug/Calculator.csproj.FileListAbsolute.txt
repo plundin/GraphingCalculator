@@ -1,0 +1,135 @@
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\Doc\bottombtn.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\Doc\calc1.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\Doc\calculator.html
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\Doc\eval.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\Doc\graph.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\Doc\load.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\Doc\place.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\Doc\print.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\Doc\save.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\Doc\xbutton.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\CalculatorControls.dll
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\IOUtilities.dll
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\MathLib.dll
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\JSEval.dll
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\CalculatorControls.pdb
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\MathLib.pdb
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\bin\Debug\IOUtilities.pdb
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\obj\x86\Debug\Calculator.CalculatorMain.resources
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\bottombtn.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\calc1.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\calculator.html
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\eval.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\graph.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\load.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\place.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\print.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\save.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\xbutton.PNG
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Calculator.exe
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Calculator.pdb
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\CalculatorControls.dll
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\IOUtilities.dll
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\MathLib.dll
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\CalculatorControls.pdb
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\MathLib.pdb
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\IOUtilities.pdb
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.CalculatorMain.resources
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.pdb
+D:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\info.lundin.math.dll
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.exe
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.pdb
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\bottombtn.PNG
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\calc1.PNG
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\calculator.html
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\eval.PNG
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\graph.PNG
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\load.PNG
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\place.PNG
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\print.PNG
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\save.PNG
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Doc\xbutton.PNG
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Calculator.exe
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\Calculator.pdb
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\CalculatorControls.dll
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\IOUtilities.dll
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\MathLib.dll
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\info.lundin.math.dll
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\CalculatorControls.pdb
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\MathLib.pdb
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\bin\Debug\IOUtilities.pdb
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.CalculatorMain.resources
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+F:\Users\Patrik Lundin\Documents\Projekt\VS2010\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\bottombtn.PNG
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\calc1.PNG
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\calculator.html
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\eval.PNG
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\graph.PNG
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\load.PNG
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\place.PNG
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\print.PNG
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\save.PNG
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\xbutton.PNG
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Calculator.exe.manifest
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Calculator.application
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Calculator.exe
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Calculator.pdb
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\CalculatorControls.dll
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\IOUtilities.dll
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\MathLib.dll
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\info.lundin.math.dll
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\CalculatorControls.pdb
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\IOUtilities.pdb
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\MathLib.pdb
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.CalculatorMain.resources
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.exe.manifest
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.application
+D:\Users\Patrik Lundin\Documents\Projects\VS\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.pdb
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.pdb
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\bottombtn.PNG
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\calc1.PNG
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\calculator.html
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\eval.PNG
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\graph.PNG
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\load.PNG
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\place.PNG
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\print.PNG
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\save.PNG
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Doc\xbutton.PNG
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Calculator.exe.manifest
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Calculator.application
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Calculator.exe
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\Calculator.pdb
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\CalculatorControls.dll
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\IOUtilities.dll
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\MathLib.dll
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\info.lundin.math.dll
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\CalculatorControls.pdb
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\IOUtilities.pdb
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\bin\Debug\MathLib.pdb
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.CalculatorMain.resources
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.exe.manifest
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\Calculator\obj\x86\Debug\Calculator.application

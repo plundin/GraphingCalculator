@@ -1,0 +1,6 @@
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\MathLib\bin\Release\MathLib.dll
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\MathLib\bin\Release\MathLib.pdb
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\MathLib\bin\Release\info.lundin.math.dll
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\MathLib\obj\Release\MathLib.csprojResolveAssemblyReference.cache
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\MathLib\obj\Release\MathLib.dll
+D:\Users\Patrik\Documents\Projects\VS\GraphingCalculator\MathLib\obj\Release\MathLib.pdb
